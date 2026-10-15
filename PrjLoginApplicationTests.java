@@ -1,4 +1,4 @@
-package com.henrique.br;
+package com.joaomar.br;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
