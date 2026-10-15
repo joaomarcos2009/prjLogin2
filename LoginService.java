@@ -2,7 +2,7 @@ package com.joaomar.br.service;
 
 import org.springframework.stereotype.Service;
 
-import com.henrique.br.entities.Usuario;
+import com.joaomar.br.entities.Usuario;
 @Service
 public class LoginService {
 	
